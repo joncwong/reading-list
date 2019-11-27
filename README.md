@@ -37,3 +37,7 @@ and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/pap
 - [Scaling Distributed Machine Learning with the Parameter Server](https://pdos.csail.mit.edu/6.824/papers/parameter.pdf)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://pdos.csail.mit.edu/6.824/papers/bitcoin.pdf)
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/bitcoin-faq.txt)
+  
+  
+
+*Dislaimer: A lot of this material is compiled from other sources such at MIT's 6.824 (Distributed Systems)*
