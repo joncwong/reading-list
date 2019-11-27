@@ -19,9 +19,9 @@
 - [The Design of a Practical System for Fault-tolerant Virtual Machines](https://pdos.csail.mit.edu/6.824/papers/vm-ft.pdf)
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/vm-ft-faq.txt)
 - [Dynamo: Amazon’s Highly Available Key-value Store](https://pdos.csail.mit.edu/6.824/papers/dynamo.pdf)
+  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/dynamo-faq.txt)
 - [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for
 In-Memory Cluster Computing (Spark)](https://pdos.csail.mit.edu/6.824/papers/zaharia-spark.pdf)
-  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/dynamo-faq.txt)
 - [Using Paxos to Build a Scalable, Consistent,
 and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/papers/spinnaker.pdf)
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/spinnaker-faq.txt)
