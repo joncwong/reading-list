@@ -19,6 +19,8 @@
 In-Memory Cluster Computing (Spark)](https://pdos.csail.mit.edu/6.824/papers/zaharia-spark.pdf)
 - [Using Paxos to Build a Scalable, Consistent,
 and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/papers/spinnaker.pdf)
+- [Frangipani: A Scalable Distributed File System](https://pdos.csail.mit.edu/6.824/papers/thekkath-frangipani.pdf)
+  - [Paper FAQ](https://pdos.csail.mit.edu/6.824/papers/frangipani-faq.txt)
 
 ### Machine Learning/Deep Learning
 - [A fast learning algorithm for deep belief nets](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
