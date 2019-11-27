@@ -21,6 +21,7 @@
 - [Dynamo: Amazon’s Highly Available Key-value Store](https://pdos.csail.mit.edu/6.824/papers/dynamo.pdf)
 - [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for
 In-Memory Cluster Computing (Spark)](https://pdos.csail.mit.edu/6.824/papers/zaharia-spark.pdf)
+  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/dynamo-faq.txt)
 - [Using Paxos to Build a Scalable, Consistent,
 and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/papers/spinnaker.pdf)
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/spinnaker-faq.txt)
@@ -35,3 +36,4 @@ and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/pap
 - [Holistic Configuration Management at Facebook](https://research.fb.com/wp-content/uploads/2016/11/holistic-configuration-management-at-facebook.pdf)
 - [Scaling Distributed Machine Learning with the Parameter Server](https://pdos.csail.mit.edu/6.824/papers/parameter.pdf)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://pdos.csail.mit.edu/6.824/papers/bitcoin.pdf)
+  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/bitcoin-faq.txt)
