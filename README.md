@@ -5,7 +5,7 @@
 - [Linux CGroups Documentation](https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt)
 
 ### Distributed Consensus
-- [The Part-Time Parliament (original Paxos paper)](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf
+- [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf
 - [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 - [In Search of an Understandable Consensus Algorithm (Raft)](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
 ### Untitled
