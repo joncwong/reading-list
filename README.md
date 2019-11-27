@@ -22,6 +22,7 @@
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/dynamo-faq.txt)
 - [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for
 In-Memory Cluster Computing (Spark)](https://pdos.csail.mit.edu/6.824/papers/zaharia-spark.pdf)
+  -[FAQ](https://pdos.csail.mit.edu/6.824/papers/spark-faq.txt)
 - [Using Paxos to Build a Scalable, Consistent,
 and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/papers/spinnaker.pdf)
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/spinnaker-faq.txt)
