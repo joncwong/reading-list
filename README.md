@@ -28,6 +28,7 @@ and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/pap
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/spinnaker-faq.txt)
 - [Frangipani: A Scalable Distributed File System](https://pdos.csail.mit.edu/6.824/papers/thekkath-frangipani.pdf)
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/frangipani-faq.txt)
+- [Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 
 ### Machine Learning/Deep Learning
 - [A fast learning algorithm for deep belief nets](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
