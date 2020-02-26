@@ -4,8 +4,9 @@
 - [Borg, Omega, and Kubernetes](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44843.pdf)
 - [Linux CGroups Documentation](https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt)
 
-### Distributed Consensus
+### Distributed Systems Theory
 - [Time, Clocks, and the Ordering of Events in a Distributed System (Lamport Clocks)](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+- [Virtual Time and Global States of Distributed Systems (Vector Clocks)](https://www.vs.inf.ethz.ch/publ/papers/VirtTimeGlobStates.pdf)
 - [The Part-Time Parliament (original Paxos paper)](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 - [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 - [In Search of an Understandable Consensus Algorithm (Raft)](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
