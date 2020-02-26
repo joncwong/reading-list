@@ -7,6 +7,7 @@
 ### Distributed Systems Theory
 - [Time, Clocks, and the Ordering of Events in a Distributed System (Lamport Clocks)](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [Virtual Time and Global States of Distributed Systems (Vector Clocks)](https://www.vs.inf.ethz.ch/publ/papers/VirtTimeGlobStates.pdf)
+- [Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services (CAP)](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
 - [The Part-Time Parliament (original Paxos paper)](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 - [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 - [In Search of an Understandable Consensus Algorithm (Raft)](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
