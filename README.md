@@ -46,4 +46,4 @@ and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/pap
   
   
 
-*Dislaimer: A lot of this material is compiled from other sources such at MIT's 6.824 (Distributed Systems)*
+*Note: A lot of these papers also appear in cookie-cutter Distributed Systems courses such as MIT's 6.824*
