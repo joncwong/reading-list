@@ -1,4 +1,6 @@
-# joncwong's Reading List 
+# joncwong's Reading List
+
+These are research papers, white papers, documentation, or blog posts that I have found to be extremely useful in my self-studying ventures. Please submit a PR if you have any suggestions :)
 
 ### Containers and Virtual Machines
 - [Borg, Omega, and Kubernetes](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44843.pdf)
