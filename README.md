@@ -38,12 +38,14 @@ and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/pap
 - [A fast learning algorithm for deep belief nets](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 - [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 
-### Untitled
+### Other?
 - [Holistic Configuration Management at Facebook](https://research.fb.com/wp-content/uploads/2016/11/holistic-configuration-management-at-facebook.pdf)
 - [Scaling Distributed Machine Learning with the Parameter Server](https://pdos.csail.mit.edu/6.824/papers/parameter.pdf)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://pdos.csail.mit.edu/6.824/papers/bitcoin.pdf)
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/bitcoin-faq.txt)
   
-  
+### Blog Posts!
+- [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 
 *Note: A lot of these papers also appear in cookie-cutter Distributed Systems courses such as MIT's 6.824*
