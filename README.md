@@ -41,21 +41,23 @@ and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/pap
 - [A fast learning algorithm for deep belief nets](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 - [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 
-### Other?
-- [Holistic Configuration Management at Facebook](https://research.fb.com/wp-content/uploads/2016/11/holistic-configuration-management-at-facebook.pdf)
-- [Scaling Distributed Machine Learning with the Parameter Server](https://pdos.csail.mit.edu/6.824/papers/parameter.pdf)
-- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://pdos.csail.mit.edu/6.824/papers/bitcoin.pdf)
-  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/bitcoin-faq.txt)
-  
-### Blog Posts!
-- [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
-- [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
-- [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-- [Schema evolution in Avro, Protocol Buffers and Thrift](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
+### Performance Engineering (mainly blog posts)
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [NGINX vs. Apache: Our View of a Decade-Old Question](https://www.nginx.com/blog/nginx-vs-apache-our-view/)
 - [Basic NGINX](https://nginx.org/en/#basic_http_features)
 - [SREcon: Performance Checklists for SREs 2016](http://www.brendangregg.com/blog/2016-05-04/srecon2016-perf-checklists-for-sres.html)
    - [Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
+  
+### Data Infrastructure Blog Posts (mainly blog posts)
+- [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+- [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Schema evolution in Avro, Protocol Buffers and Thrift](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
+
+### Other?
+- [Holistic Configuration Management at Facebook](https://research.fb.com/wp-content/uploads/2016/11/holistic-configuration-management-at-facebook.pdf)
+- [Scaling Distributed Machine Learning with the Parameter Server](https://pdos.csail.mit.edu/6.824/papers/parameter.pdf)
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://pdos.csail.mit.edu/6.824/papers/bitcoin.pdf)
+  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/bitcoin-faq.txt)
 
 *Note: A lot of these papers also appear in cookie-cutter Distributed Systems courses such as MIT's 6.824*
