@@ -37,8 +37,11 @@ In-Memory Cluster Computing (Spark)](https://pdos.csail.mit.edu/6.824/papers/zah
 - [Using Paxos to Build a Scalable, Consistent,
 and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/papers/spinnaker.pdf)
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/spinnaker-faq.txt)
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://pdos.csail.mit.edu/6.824/papers/bitcoin.pdf)
+  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/bitcoin-faq.txt)
 - [Frangipani: A Scalable Distributed File System](https://pdos.csail.mit.edu/6.824/papers/thekkath-frangipani.pdf)
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/frangipani-faq.txt)
+- [Scaling Distributed Machine Learning with the Parameter Server](https://pdos.csail.mit.edu/6.824/papers/parameter.pdf)
 - [Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 - [The Chubby lock service for loosely-coupled distributed systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/c64be13661eaea41dcc4fdd569be4858963b0bd3.pdf)
 - [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
@@ -60,10 +63,11 @@ and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/pap
 - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Schema evolution in Avro, Protocol Buffers and Thrift](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
 
-### Other?
+### Case Studies
 - [Holistic Configuration Management at Facebook](https://research.fb.com/wp-content/uploads/2016/11/holistic-configuration-management-at-facebook.pdf)
-- [Scaling Distributed Machine Learning with the Parameter Server](https://pdos.csail.mit.edu/6.824/papers/parameter.pdf)
-- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://pdos.csail.mit.edu/6.824/papers/bitcoin.pdf)
-  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/bitcoin-faq.txt)
+- [Python at Netflix](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
+- [Netflix's Learnings From Adopting GraphQL](https://netflixtechblog.com/our-learnings-from-adopting-graphql-f099de39ae5f)
+- [Scaling Time Series Data Storage Part I](https://netflixtechblog.com/scaling-time-series-data-storage-part-i-ec2b6d44ba39)
+- [Scaling Time Series Data Storage Part II](https://netflixtechblog.com/scaling-time-series-data-storage-part-ii-d67939655586)
 
 *Note: A lot of these papers also appear in cookie-cutter Distributed Systems courses such as MIT's 6.824*
