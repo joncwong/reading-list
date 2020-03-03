@@ -2,6 +2,11 @@
 
 These are research papers, white papers, documentation, or blog posts that I have found to be extremely useful in my self-studying ventures. These range from theorhetical concepts to practical day-to-day software/system knowledge. Please submit a PR if you have any suggestions :)
 
+### Recommended Newbie Readings
+Reading a handful/selective-few chapters of these books does wonders
+- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Designing Data-Intensive Applications](https://dataintensive.net/)
+
 ### Containers and Virtual Machines
 - [Borg, Omega, and Kubernetes](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44843.pdf)
 - [Linux CGroups Documentation](https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt)
