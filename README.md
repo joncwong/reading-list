@@ -1,6 +1,6 @@
 # joncwong's Reading List
 
-These are research papers, white papers, documentation, or blog posts that I have found to be extremely useful in my self-studying ventures. Please submit a PR if you have any suggestions :)
+These are research papers, white papers, documentation, or blog posts that I have found to be extremely useful in my self-studying ventures. These range from theorhetical concepts to practical day-to-day software/system knowledge. Please submit a PR if you have any suggestions :)
 
 ### Containers and Virtual Machines
 - [Borg, Omega, and Kubernetes](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44843.pdf)
@@ -54,5 +54,6 @@ and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/pap
 - [Schema evolution in Avro, Protocol Buffers and Thrift](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [NGINX vs. Apache: Our View of a Decade-Old Question](https://www.nginx.com/blog/nginx-vs-apache-our-view/)
+- [Basic NGINX](https://nginx.org/en/#basic_http_features)
 
 *Note: A lot of these papers also appear in cookie-cutter Distributed Systems courses such as MIT's 6.824*
