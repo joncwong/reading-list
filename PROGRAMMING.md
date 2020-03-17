@@ -10,5 +10,5 @@ Programming articles, blogs, snippets, talks, etc.
 - [Effective Go](https://golang.org/doc/effective_go.html)
 
 ### Rust
-- [Considering Rust](https://www.youtube.com/watch?v=DnT-LUQgc7s)
-- [Rust, WebAssembly, and the future of Serverless by Steve Klabnik](https://www.youtube.com/watch?v=CMB6AlE1QuI)
+- [Considering Rust (video)](https://www.youtube.com/watch?v=DnT-LUQgc7s)
+- [Rust, WebAssembly, and the future of Serverless by Steve Klabnik (video)](https://www.youtube.com/watch?v=CMB6AlE1QuI)
