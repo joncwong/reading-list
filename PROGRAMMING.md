@@ -1,6 +1,6 @@
 # joncwong's Reading List
 
-Programming articles, blogs, snippets, etc.
+Programming articles, blogs, snippets, talks, etc.
 
 ### Python
 - [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
@@ -8,3 +8,6 @@ Programming articles, blogs, snippets, etc.
 
 ### Go
 - [Effective Go](https://golang.org/doc/effective_go.html)
+
+### Rust
+- [Considering Rust[(https://www.youtube.com/watch?v=DnT-LUQgc7s)
