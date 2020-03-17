@@ -10,4 +10,4 @@ Programming articles, blogs, snippets, talks, etc.
 - [Effective Go](https://golang.org/doc/effective_go.html)
 
 ### Rust
-- [Considering Rust[(https://www.youtube.com/watch?v=DnT-LUQgc7s)
+- [Considering Rust](https://www.youtube.com/watch?v=DnT-LUQgc7s)
