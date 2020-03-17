@@ -11,3 +11,4 @@ Programming articles, blogs, snippets, talks, etc.
 
 ### Rust
 - [Considering Rust](https://www.youtube.com/watch?v=DnT-LUQgc7s)
+- [Rust, WebAssembly, and the future of Serverless by Steve Klabnik](https://www.youtube.com/watch?v=CMB6AlE1QuI)
