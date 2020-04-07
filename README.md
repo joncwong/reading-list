@@ -8,10 +8,12 @@ Reading a handful/selective-few chapters of these books/links does wonders
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
 
-### Containers and Virtual Machines
+### Containers, Virtual Machines, and Operatinh Systems
 - [Borg, Omega, and Kubernetes](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44843.pdf)
 - [Linux CGroups Documentation](https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt)
 - [Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/)
+- [Green Threads](https://c9x.me/articles/gthreads/intro.html)
+  - [Green Threads vs Native Threads (more in-depth)](https://wiki.c2.com/?GreenVsNativeThreads)
 
 ### Distributed Systems Theory
 - [Time, Clocks, and the Ordering of Events in a Distributed System (Lamport Clocks)](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
