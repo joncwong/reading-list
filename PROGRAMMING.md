@@ -13,5 +13,6 @@ Programming articles, blogs, snippets, talks, etc.
 - [Considering Rust (video)](https://www.youtube.com/watch?v=DnT-LUQgc7s)
 - [Rust, WebAssembly, and the future of Serverless by Steve Klabnik (video)](https://www.youtube.com/watch?v=CMB6AlE1QuI)
 
-### General Programming Trivia
+### General Programming Knowledge and Case Studies
 - [N+1 Problem in ORMs](https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping)
+- [C10K Problem](http://www.kegel.com/c10k.html)
