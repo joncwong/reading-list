@@ -58,7 +58,7 @@ and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/pap
 - [SREcon: Performance Checklists for SREs 2016](http://www.brendangregg.com/blog/2016-05-04/srecon2016-perf-checklists-for-sres.html)
    - [Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
   
-### Data Infrastructure Blog Posts (mainly blog posts)
+### Data Infrastructure (mainly blog posts)
 - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
