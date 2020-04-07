@@ -11,6 +11,7 @@ Reading a handful/selective-few chapters of these books/links does wonders
 ### Containers and Virtual Machines
 - [Borg, Omega, and Kubernetes](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44843.pdf)
 - [Linux CGroups Documentation](https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt)
+- [Docker Internals](http://docker-saigon.github.io/post/Docker-Internals/)
 
 ### Distributed Systems Theory
 - [Time, Clocks, and the Ordering of Events in a Distributed System (Lamport Clocks)](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
