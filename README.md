@@ -7,6 +7,8 @@ Reading a handful/selective-few chapters of these books/links does wonders
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
+- [Distributed Systems YouTube Course by Chris Colohan](https://www.youtube.com/watch?v=7VbL89mKK3M&list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
+  - [What could go wrong?](https://www.youtube.com/watch?v=C8nLSLs0fNw)
 
 ### Containers, Virtual Machines, and Operating Systems
 - [Borg, Omega, and Kubernetes](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44843.pdf)
