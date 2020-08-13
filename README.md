@@ -18,7 +18,6 @@ Reading a handful/selective-few chapters of these books/links does wonders
   - [Green Threads vs Native Threads (more in-depth)](https://wiki.c2.com/?GreenVsNativeThreads)
 - [Linux Internals Blog](https://learnlinuxconcepts.blogspot.com/2014/10/this-blog-is-to-help-those-students-and.html)
 - [eBPF](https://ebpf.io/)
-- [Brendan Gregg](http://www.brendangregg.com/)
 
 ### Distributed Systems Theory
 - [Time, Clocks, and the Ordering of Events in a Distributed System (Lamport Clocks)](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
