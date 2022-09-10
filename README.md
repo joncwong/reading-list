@@ -30,7 +30,7 @@ Reading a handful/selective-few chapters of these books/links does wonders
 - [In Search of an Understandable Consensus Algorithm (Raft)](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/raft2-faq.txt)
 
-### Parallel Processing, Distributed Systems, and Datastores
+### Parallel Processing, Distributed Systems, and Databases
 - [MapReduce: Simplified Data Processing on Large Clusters](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
 - [The Google File System](https://pdos.csail.mit.edu/6.824/papers/gfs.pdf)
   - [FAQ](https://pdos.csail.mit.edu/6.824/papers/gfs-faq.txt)
@@ -55,6 +55,7 @@ and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/pap
 - [The Chubby lock service for loosely-coupled distributed systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/c64be13661eaea41dcc4fdd569be4858963b0bd3.pdf)
 - [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 - [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36356.pdf)
+- [Amazon DynamoDB (Usenix ATC 2022)](https://www.usenix.org/system/files/atc22-elhemali.pdf)
 
 ### Machine Learning/Deep Learning
 - [A fast learning algorithm for deep belief nets](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
