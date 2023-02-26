@@ -55,7 +55,7 @@ and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/pap
 ### Machine Learning/Deep Learning
 - [A fast learning algorithm for deep belief nets](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 - [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
-- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf]
+- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 - [Machine Learning Operations (MLOps):
 Overview, Definition, and Architecture](https://arxiv.org/pdf/2205.02302.pdf)
 
