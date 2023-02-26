@@ -2,8 +2,7 @@
 
 These are research papers, white papers, documentation, or blog posts that I have found to be extremely useful in my self-studying ventures. These range from theorhetical concepts to practical day-to-day software/system knowledge. Please submit a PR if you have any suggestions :)
 
-### Recommended Readings/Series
-Reading a handful/selective-few chapters of these books/links does wonders
+## Recommended Books/Series
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
@@ -11,6 +10,8 @@ Reading a handful/selective-few chapters of these books/links does wonders
 - [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds3/)
 - [Distributed Systems YouTube Course by Chris Colohan](https://www.youtube.com/watch?v=7VbL89mKK3M&list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
   - [What could go wrong?](https://www.youtube.com/watch?v=C8nLSLs0fNw)
+
+## Papers and Articles
 
 ### Containers, Virtual Machines, and Operating Systems
 - [Borg, Omega, and Kubernetes](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44843.pdf)
@@ -21,7 +22,7 @@ Reading a handful/selective-few chapters of these books/links does wonders
 - [Linux Internals Blog](https://learnlinuxconcepts.blogspot.com/2014/10/this-blog-is-to-help-those-students-and.html)
 - [eBPF](https://ebpf.io/)
 
-### Distributed Systems Theory
+## Distributed Systems Theory
 - [Time, Clocks, and the Ordering of Events in a Distributed System (Lamport Clocks)](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [Virtual Time and Global States of Distributed Systems (Vector Clocks)](https://www.vs.inf.ethz.ch/publ/papers/VirtTimeGlobStates.pdf)
 - [Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services (CAP)](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
@@ -33,29 +34,24 @@ Reading a handful/selective-few chapters of these books/links does wonders
 ### Parallel Processing, Distributed Systems, and Databases
 - [MapReduce: Simplified Data Processing on Large Clusters](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
 - [The Google File System](https://pdos.csail.mit.edu/6.824/papers/gfs.pdf)
-  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/gfs-faq.txt)
 - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/events/atc10/tech/full_papers/Hunt.pdf)
-  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/zookeeper-faq.txt)
 - [The Design of a Practical System for Fault-tolerant Virtual Machines](https://pdos.csail.mit.edu/6.824/papers/vm-ft.pdf)
-  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/vm-ft-faq.txt)
 - [Dynamo: Amazon’s Highly Available Key-value Store](https://pdos.csail.mit.edu/6.824/papers/dynamo.pdf)
-  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/dynamo-faq.txt)
 - [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for
 In-Memory Cluster Computing (Spark)](https://pdos.csail.mit.edu/6.824/papers/zaharia-spark.pdf)
-  -[FAQ](https://pdos.csail.mit.edu/6.824/papers/spark-faq.txt)
 - [Using Paxos to Build a Scalable, Consistent,
 and Highly Available Datastore (Spinnaker)](https://pdos.csail.mit.edu/6.824/papers/spinnaker.pdf)
-  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/spinnaker-faq.txt)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://pdos.csail.mit.edu/6.824/papers/bitcoin.pdf)
-  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/bitcoin-faq.txt)
 - [Frangipani: A Scalable Distributed File System](https://pdos.csail.mit.edu/6.824/papers/thekkath-frangipani.pdf)
-  - [FAQ](https://pdos.csail.mit.edu/6.824/papers/frangipani-faq.txt)
 - [Scaling Distributed Machine Learning with the Parameter Server](https://pdos.csail.mit.edu/6.824/papers/parameter.pdf)
 - [Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 - [The Chubby lock service for loosely-coupled distributed systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/c64be13661eaea41dcc4fdd569be4858963b0bd3.pdf)
 - [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 - [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36356.pdf)
 - [Amazon DynamoDB (Usenix ATC 2022)](https://www.usenix.org/system/files/atc22-elhemali.pdf)
+- [What’s Really New with NewSQL?](https://db.cs.cmu.edu/papers/2016/pavlo-newsql-sigmodrec2016.pdf)
+- [Spanner: Google's Globally Distributed Database](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/65b514eda12d025585183a641b5a9e096a3c4be5.pdf)
+- [CockroachDB: The Resilient Geo-Distributed SQL Database](https://dl.acm.org/doi/pdf/10.1145/3318464.3386134)
 
 ### Machine Learning/Deep Learning
 - [A fast learning algorithm for deep belief nets](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
